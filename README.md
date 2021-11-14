@@ -1,16 +1,20 @@
-# MyTelegramOrgRoBot
+# RAXS-SCRAPPER
 
-~~(yet)~~ another my.telegram.org scrapper inside Telegram.
+[<img src="https://telegra.ph/file/aec6cbc4249c30b1a0301.jpg">](https://t.me/RaxScraper)
 
-### ⚠ legal DISclaimER 🚸
-please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
 
-**Telegram said**: __It is forbidden to pass this value to third parties__.
+Bot yang mampu membantu kamu mendapatkan API_ID dan API_HASH
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+# Gasken lah Cuk Deploy di heroku
 
-🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
-__For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
+<a href="https://heroku.com/deploy?template=https://github.com/rakaxyxz/RaxsScraper"><img src="https://img.shields.io/badge/DEPLOY DI-HEROKU-blue?style=for-the-badge&logo=heroku" /></a>
+
+# OWNER
+
+<a href="https://t.me/ImThelastKingMs"><img src="https://img.shields.io/badge/OwnerGanteng-black?style=for-the-badge&logo=telegram" /></a>
+<a href="https://t.me/ImTheLastKings"><img src="https://img.shields.io/badge/DEMO-BOT-gold?style=for-the-badge&logo=telegram" /></a>
+
+
 
 ## Frequently Asked Questions
 
@@ -59,19 +63,19 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [@ImTheLastKinggMs](https://telegram.dog/ThankTelegram)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
+- Please report any issues to the support group: [@ImTheLasTKinggMs](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
 
 
 ## learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/RakaXyxz/RakaScraper/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
+[AGPLv3](https://github.com/Rakaxyxz/RakaScaraper/tree/master/LICENSE)
 
 ## credits
 
@@ -80,4 +84,4 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+  - [me](https://tx.me/ImthelastKinggMs)
